@@ -1,6 +1,6 @@
-# FlaskApiSaveImg
+# flask-file-api
 
-FlaskApiSaveImg is a simple example of how to save an image through Flask and Flask_restful including the Docker file used to make it work out of the box based on the implementation of "[File Upload in Restful Flask](https://github.com/flask-restful/flask-restful/issues/485)".
+flask-file-api is a simple example of how to save an image through Flask and Flask_restful including the Docker file used to make it work out of the box based on the implementation of "[File Upload in Restful Flask](https://github.com/flask-restful/flask-restful/issues/485)".
 
 ## Implementation
 
